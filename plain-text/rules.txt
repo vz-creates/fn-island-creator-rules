@@ -1,11 +1,11 @@
 Fortnite Island Creator Rules
-Last updated: February 13, 2025  
+Last updated: April 28, 2025  
 
-UPDATE (February 13, 2025)
+UPDATE (April 28, 2025)
 
-We have a policy update. You can now use text in parts of your lobby backgrounds.
-Updates to rules 1.10, 1.15.7, and 4.2: Existing rules apply to lobby backgrounds.
-Removed rule 1.19.1 which was previously prohibiting text in lobby backgrounds. 
+We have a policy update about music lyrics in Fortnite islands. 
+Updates to rules 1.15
+Added rule 1.15.8 
 Please take the time to read through these updated rules and familiarize yourself with them. 
 Welcome Fortnite Creator!
 
@@ -70,7 +70,7 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 
 1.14 Stay within Spec Requirements - Make sure the islands you are creating do not cause server issues, intentionally or not. Frame rates should stay above 30 FPS.
 
-1.15 Align with Fortnite’s Game Rating - Fortnite is an ecosystem with a range of ratings and content must not exceed Fortnite’s maximum age rating. Please refer to the IARC Overview for “Maximum Age Ratings in Fortnite”. We also don't accept content that targets children under 13 as its primary audience (no nursery rhymes). Images and text used to promote your island must be appropriate for a general audience (e.g. content that would merit a rating of ESRB Everyone 10+, or lower).
+1.15 Align with Fortnite’s Game Rating - Fortnite is an ecosystem with a range of ratings and all content (including text, imagery, and audio) must not exceed Fortnite’s maximum age rating. Please refer to the IARC Overview for “Maximum Age Ratings in Fortnite”. We also don't accept content that targets children under 13 as its primary audience (no nursery rhymes). Images and text used to promote your island must be appropriate for a general audience (e.g. content that would merit a rating of ESRB Everyone 10+, or lower).
 
 We require all creators to obtain age ratings for your content via IARC (International Age Rating Coalition) upon publishing. When creating or publishing content for Fortnite, you must also follow these content rules: 
 
@@ -94,7 +94,9 @@ Active gunfire from a visible weapon
 Crosshairs shown over a face/head
 Guns pointed at the viewer
 Guns pointed at head of character
-Learn more: ESRB Ratings Principles and Guidelines.  
+Learn more: ESRB Ratings Principles and Guidelines.
+1.15.8. Music: All music used in an island must not exceed that island’s rating. For example, music in a Teen-rated island cannot contain lyrics that use language or reference themes that are not permissible in Teen-rated content, such as graphic sexual or violent content, sexual expletives, or detailed references to self-harm or suicide. 
+
 1.16 Misuse of Epic Systems - Epic maintains many systems to keep our users safe and their data secure. Do not attempt to bypass these protections to gain unauthorized access to any Epic systems or data. Do not attempt to gain sensitive information from players. Do not attempt to create or distribute malicious software via Epic systems.
 
 1.17 Educational Exceptions - We may permit exceptions at our discretion to our Island Creator Rules if the primary purpose of your island is to provide an educational, scientific, artistic, or historical experience.
@@ -143,7 +145,7 @@ We want to make it easy for you to promote your Fortnite island to help it be su
 
 3.2.1. All marketing content you use to promote your island, regardless of channel or format, must comply with these rules, including the Content Rules & Guidelines described above in Rule 1 and the Epic Games Content Guidelines. Marketing content you use to promote your island should also be appropriate for the age rating you obtain for the island under Rule 1.16. Promotions that violate these rules may result in action being taken against the island(s) being promoted or actions against your Epic Account.
 
-3.2.2. You must not run advertisements on television or digital ad networks to promote your island without express and prior consent from Epic Games. To seek this consent, please contact us using the Creator Support Form.
+3.2.2. You must not run advertisements on television or digital ad networks to promote your island without express and prior consent from Epic Games. To seek this consent, please contact us at CreatorAdRequests@epicgames.com.
 
 3.2.3. You may promote your island digitally via advertisements and assets on your own websites, social channels, or platforms, as well as with text-based search ads, such as Google Search.
 

@@ -4,6 +4,7 @@ A basic repository to Fortnite Island Creator rule changes.
 
 ## Updates (PDF)
 
+- [`Aug. 05, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/aug_05_2025.pdf)
 - [`Jun. 27, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/jun_27_2025.pdf)
 - [`Jun. 02, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/jun_02_2025.pdf)
 - [`Apr. 28, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/apr_28_2025.pdf)
@@ -19,6 +20,7 @@ A basic repository to Fortnite Island Creator rule changes.
 
 ## Diffs
 
+- [`Jun. 27, 2025` - `Aug. 05, 2025`](https://github.com/vz-creates/fn-island-creator-rules/commit/174262269db4fa0b113b3aefdab295a7a4415db4)
 - [`Jun. 02, 2025` - `Jun. 27, 2025`](https://github.com/vz-creates/fn-island-creator-rules/commit/c3bbd935792d7d8645e3641cf5738732fca3671e)
 - [`Apr. 28, 2025` - `Jun. 02, 2025`](https://github.com/vz-creates/fn-island-creator-rules/commit/13f364e086e857c909ad4c54e6603632ae44acb4)
 - [`Feb. 13, 2025` - `Apr. 28, 2025`](https://github.com/vz-creates/fn-island-creator-rules/commit/66543e2b05895e10e20e8e7ea3d77ccf7dee7c4e)

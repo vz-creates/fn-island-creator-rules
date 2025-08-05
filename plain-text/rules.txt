@@ -1,15 +1,14 @@
 Fortnite Island Creator Rules
 
-Last updated: June 27, 2025  
+Last updated: August 5, 2025
 
-UPDATE (June 27, 2025)
+UPDATE (August 5, 2025)
 
-We've updated the Fortnite Island Creator Rules to include Squid Game Brand and Creator Rules, and clarify a few rules:
+We’ve updated Creator Rules (1.15.1) to allow unrealistic blood-like substances (e.g. not red in color) to be used in your islands with fantasy NPC creatures. These effects cannot appear in thumbnails, or be used with any Fortnite Outfits or human-like characters. Realistic violence and gore of any kind is still not permitted.
 
-1.7 Respect IP Ownership: We’re added a new subrule, 1.7.1 Epic-Owned IP, to clarify that you may not recreate Epic IP, such as Battle Royale season assets that are not available to creators in UEFN.
-1.9 Play by the Rules: We’re updating this rule to clarify that you may not mislead players anywhere in your island.
-1.14. Stay Within Spec Requirements: We’ve clarified that islands must be playable across all platforms supported by Fortnite.
 Please take the time to read through these updated rules and familiarize yourself with them.
+
+To see the Fortnite Creator Rules change log click here.  
 
 Welcome Fortnite Creator!
 
@@ -75,7 +74,7 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 
 We require all creators to obtain age ratings for your content via IARC (International Age Rating Coalition) upon publishing. When creating or publishing content for Fortnite, you must also follow these content rules: 
 
-1.15.1. Violence & Gore: Violence must never be realistic. Death animations and kill replays are not permitted. Realistic gore of any kind is not permitted, including any inclusion of or reference to real or fake blood. Your content may contain horror themes and/or “scary” content, but neither may be intense or sustained. You must avoid disturbing images.
+1.15.1. Violence & Gore: Violence must never be realistic. Death animations and kill replays are not permitted. Realistic gore of any kind is not permitted, including any realistic blood. Unrealistic, blood-like substances are allowed when used with fantasy NPC creatures, such as non-human-like and non-realistic creature NPCs. Unrealistic blood cannot be red in color, and may not be used in thumbnails or with any Fortnite Outfits. Your content may contain horror themes and/or “scary” content, but neither may be intense or sustained. You must avoid disturbing images. 
 1.15.2. Language: Use of mild profanity and innuendo is permitted, but must not be frequent. Hateful or discriminatory language of any kind is not permitted. Sexual expletives of any kind are not permitted.
 1.15.3. Nudity & Sexually Suggestive Themes: Romantic themes are permitted, but must not go as far as strong or frequent sexually suggestive themes and references. Depictions of full nudity or sexual activities are not permitted in any form.
 1.15.4. Alcohol & Drug References: References to alcohol, tobacco, illegal drugs, or drug-taking are not permitted in any form.
